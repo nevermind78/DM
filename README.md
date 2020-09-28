@@ -17,9 +17,10 @@ Data mining TP
 
 ## Getting started 
 Pour valider les TP de Data Mining :
-- Il faut compléter les TPs (3tps) et les renvoyer avant les deadlines
+- Il faut compléter les TPs (3 TPs) et les renvoyer avant les deadlines
 - Compléter les certifications [3 certifs Datacamp](#Certification)
 - [Compléter l'assignement sur datacamp pour la manipulation des données ][admp]
+- [Capstone Project][cp]
 
 ## Requirements
 
@@ -40,10 +41,6 @@ Pour valider les TP de Data Mining :
 
 
 
-
-
-
-
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 [TP1]: https://github.com/nevermind78/DM/tree/master/TP1
@@ -51,4 +48,5 @@ Pour valider les TP de Data Mining :
 [lcp]: https://learn.datacamp.com/courses/linear-classifiers-in-python
 [cap]: https://learn.datacamp.com/courses/cluster-analysis-in-python
 [admp]:https://assessment.datacamp.com/data-manipulation-with-python
+[cp]: https://learn.datacamp.com/projects
 
