@@ -11,7 +11,7 @@ Data mining TP
 - [Getting started](#getting-started)
 - [TP1][TP1]
 - [Certification](#Certification)
-- [Examples](#examples)
+- [Moyenne des Tps DM](#examples)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -38,7 +38,8 @@ Pour valider les TP de Data Mining :
 3. [Cluster Analysis][cap]
 
 
-
+## Exemples
+$$\displaystyle\frac{\frac{TP1+TP2+TP3}{3}+2Cap}{3}+Assessement_score\times2$$
 
 
 [ANACONDA]: https://www.anaconda.com/products/individual
