@@ -10,7 +10,7 @@ Data mining TP
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
 - [TP1][TP1]
-- [Documentation](#documentation)
+- [Certification](#Certification)
 - [Examples](#examples)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -19,38 +19,25 @@ Data mining TP
 
 ## Requirements
 
-* [#ANACONDA For windows][ANACONDA] 
-* [#ANACONDA][ANACONDA]
-* [#Jupyter][Jup]
+* [ANACONDA For windows][ANACONDA] 
+* [ANACONDA][ANACONDA]
+* [Jupyter][Jup]
 
-
-
-## Getting started
-
-
-## What sorcery is this?
-
-Courses MD allows you to write Markdown which will be automatically transformed
-into HTML slides.
-
-The resulting HTgML files are [Remark][remark] slides and Courses MD uses
-[md2remark][md2remark] to process the Markdown, so you should familiarize
-yourself with these 2 tools to know what you can do.
-
-
-
-## Certification
-
-*1.
-*2.
-*3.
 
 
 
 
 
 
-## Examples
+## Certification
+
+1. [Cleaning Data In python ][cdi]
+2. [Linear Classifiers in Python][lcp]
+3. [Cluster Analysis][cap]
+
+
+
+
 
 
 
@@ -59,4 +46,7 @@ yourself with these 2 tools to know what you can do.
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 [TP1]: https://github.com/nevermind78/DM/tree/master/TP1
+[cdi]: https://learn.datacamp.com/courses/cleaning-data-in-python
+[lcp]: https://learn.datacamp.com/courses/linear-classifiers-in-python
+[cap]: https://learn.datacamp.com/courses/cluster-analysis-in-python
 
