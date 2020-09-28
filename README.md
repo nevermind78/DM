@@ -15,16 +15,17 @@ Data mining TP
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
+## Getting started 
+Pour valider les TP de Data Mining :
+- Il faut compléter les TPs (3tps) et les renvoyer avant les deadlines
+- Compléter les certifications [3 certifs Datacamp](#Certification)
+- [Compléter l'assignement sur datacamp pour la manipulation des données ][admp]
 
 ## Requirements
 
 * [ANACONDA For windows][ANACONDA] 
-* [ANACONDA][ANACONDA]
+* [ANACONDA For Linux][ANACONDA]
 * [Jupyter][Jup]
-
-
-
 
 
 
@@ -49,4 +50,5 @@ Data mining TP
 [cdi]: https://learn.datacamp.com/courses/cleaning-data-in-python
 [lcp]: https://learn.datacamp.com/courses/linear-classifiers-in-python
 [cap]: https://learn.datacamp.com/courses/cluster-analysis-in-python
+[admp]:https://assessment.datacamp.com/data-manipulation-with-python
 
