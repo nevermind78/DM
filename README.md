@@ -9,7 +9,7 @@ Data mining TP
 
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
-- [TP1](#what-sorcery-is-this)
+- [TP1][TP1]
 - [Documentation](#documentation)
 - [Examples](#examples)
 
@@ -20,7 +20,8 @@ Data mining TP
 ## Requirements
 
 * [#ANACONDA For windows][ANACONDA] 
-* [#ANACONDA][Linux] 
+* [#ANACONDA][ANACONDA]
+* [#Jupyter][Jup]
 
 
 
@@ -77,9 +78,9 @@ Take a look at these [COMEM+ web development courses][comem-webdev] which were w
 
 
 [ANACONDA]: https://www.anaconda.com/products/individual
-[comem-webdev-git-branching]: https://mediacomem.github.io/comem-webdev-docs/2017/subjects/git-branching/
+[Jup]: https://jupyter.org/
 [comem-webdev-rest]: https://mediacomem.github.io/comem-webdev-docs/2017/subjects/rest/
-[generator-courses-md]: https://github.com/MediaComem/generator-courses-md
+[TP1]: https://github.com/nevermind78/DM/tree/master/TP1
 [generator-courses-md-docs]: https://github.com/MediaComem/generator-courses-md#readme
 [git]: https://git-scm.com
 [md2remark]: https://github.com/AlphaHydrae/md2remark
