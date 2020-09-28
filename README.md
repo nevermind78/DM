@@ -19,8 +19,8 @@ Data mining TP
 
 ## Requirements
 
-* [ANACONDA][Windows] 
-* [ANACONDA][Linux] 
+* [#ANACONDA For windows][ANACONDA] 
+* [#ANACONDA][Linux] 
 
 
 
