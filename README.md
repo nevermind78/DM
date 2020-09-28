@@ -39,9 +39,7 @@ Pour valider les TP de Data Mining :
 
 
 ## Exemples
-<img src="https://render.githubusercontent.com/render/\displaystyle\frac{\frac{TP1+TP2+TP3}{3}+2Cap}{3}+Assessement_score\times 2">
-![equation](http://latex.codecogs.com/gif.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
-
+<img src="https://render.githubusercontent.com/render/\frac{1}{2}">
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
