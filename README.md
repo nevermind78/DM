@@ -27,6 +27,7 @@ Pour valider les TP de Data Mining :
 * [ANACONDA For windows][ANACONDA] 
 * [ANACONDA For Linux][ANACONDA]
 * [Jupyter][Jup]
+* [Googlecollabs][clb]
 
 
 
@@ -52,4 +53,5 @@ Bonus = (0.5-Assessement) x (Nombre de certif datacamp) si Assessment >=0.5
 [cap]: https://learn.datacamp.com/courses/cluster-analysis-in-python
 [admp]:https://assessment.datacamp.com/data-manipulation-with-python
 [cp]: https://learn.datacamp.com/projects
+[clb]:https://colab.research.google.com/notebooks/intro.ipynb
 
