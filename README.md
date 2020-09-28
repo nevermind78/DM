@@ -11,7 +11,7 @@ Data mining TP
 - [Getting started](#getting-started)
 - [TP1][TP1]
 - [Certification](#Certification)
-- [Moyenne des Tps DM](#examples)
+- [Moyenne des Tps DM](#Moyenne)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -38,8 +38,11 @@ Pour valider les TP de Data Mining :
 3. [Cluster Analysis][cap]
 
 
-## Exemples
-<img src="https://render.githubusercontent.com/render/\frac{1}{2}">
+## Moyenne
+Moyenne=(Moyenne( 3TP)+Capstone project x 2)/3 + Bonus
+
+Bonus = (0.5-Assessement) x (Nombre de certif datacamp) si Assessment >=0.5
+                              sinon 0
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
