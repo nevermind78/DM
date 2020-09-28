@@ -39,7 +39,7 @@ Pour valider les TP de Data Mining :
 
 
 ## Exemples
-$$\displaystyle\frac{\frac{TP1+TP2+TP3}{3}+2Cap}{3}+Assessement_score\times2$$
+$$\displaystyle\frac{\frac{TP1+TP2+TP3}{3}+2Cap}{3}+Assessement_score\times 2$$
 
 
 [ANACONDA]: https://www.anaconda.com/products/individual
