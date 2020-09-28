@@ -5,7 +5,7 @@ Data mining TP
 
 > Probability is the study of regularities that emerge in the outcomes of random experiments. In this course, you'll learn about fundamental probability concepts like random variables (starting with the classic coin flip example) and how to calculate mean and variance, probability distributions, and conditional probability. We'll also explore two very important results in probability: the law of large numbers and the central limit theorem. Since probability is at the core of data science and machine learning, these concepts will help you understand and apply models more robustly. Chances are everywhere, and the study of probability will change the way you see the world. Let’s get random!.
 
-[![npm version](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/497px-Conda_logo.svg.png](https://badge.fury.io/js/courses-md)
+[![npm version]
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
