@@ -40,6 +40,7 @@ Pour valider les TP de Data Mining :
 
 ## Exemples
 <img src="https://render.githubusercontent.com/render/\displaystyle\frac{\frac{TP1+TP2+TP3}{3}+2Cap}{3}+Assessement_score\times 2">
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
