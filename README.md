@@ -26,26 +26,6 @@ Data mining TP
 
 
 ## Getting started
-# Courses <img src="https://assets.datacamp.com/production/course_14568/shields/original/shield_image_course_14568_20190509-1-6ozs25?1557431725" width=100 height=100 alt="MD">
-
-> Probability is the study of regularities that emerge in the outcomes of random experiments. In this course, you'll learn about fundamental probability concepts like random variables (starting with the classic coin flip example) and how to calculate mean and variance, probability distributions, and conditional probability. We'll also explore two very important results in probability: the law of large numbers and the central limit theorem. Since probability is at the core of data science and machine learning, these concepts will help you understand and apply models more robustly. Chances are everywhere, and the study of probability will change the way you see the world. Let’s get random!.
-
-Install the [Yeoman generator][generator-courses-md] to get started:
-
-```bash
-npm install -g yo generator-courses-md
-```
-
-Create a directory in which to write your courses. Go into it and run the generator:
-
-```bash
-mkdir courses
-cd courses
-yo courses-md
-```
-
-Run `yo courses-md --help` or read the [project's documentation][generator-courses-md] to see what options are available.
-
 
 
 ## What sorcery is this?
@@ -59,31 +39,24 @@ yourself with these 2 tools to know what you can do.
 
 
 
-## Documentation
+## Certification
 
-The documentation is written with Courses MD itself:
+*1.
+*2.
+*3.
 
-* Read it [as Markdown on GitHub](https://github.com/MediaComem/courses-md/tree/master/subjects/documentation#readme)
-* Read it [as HTML slides on GitHub Pages](https://mediacomem.github.io/courses-md/latest/subjects/documentation/)
+
+
 
 
 
 ## Examples
 
-Take a look at these [COMEM+ web development courses][comem-webdev] which were written with Courses MD, for example:
 
-* [Git Branching][comem-webdev-git-branching]
-* [REST APIs Introduction][comem-webdev-rest]
 
 
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
-[comem-webdev-rest]: https://mediacomem.github.io/comem-webdev-docs/2017/subjects/rest/
 [TP1]: https://github.com/nevermind78/DM/tree/master/TP1
-[generator-courses-md-docs]: https://github.com/MediaComem/generator-courses-md#readme
-[git]: https://git-scm.com
-[md2remark]: https://github.com/AlphaHydrae/md2remark
-[node]: https://nodejs.org
-[remark]: https://remarkjs.com/#1
 
