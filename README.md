@@ -76,7 +76,7 @@ Take a look at these [COMEM+ web development courses][comem-webdev] which were w
 
 
 
-[comem-webdev]: https://github.com/MediaComem/comem-webdev#subjects
+[ANACONDA]: https://www.anaconda.com/products/individual
 [comem-webdev-git-branching]: https://mediacomem.github.io/comem-webdev-docs/2017/subjects/git-branching/
 [comem-webdev-rest]: https://mediacomem.github.io/comem-webdev-docs/2017/subjects/rest/
 [generator-courses-md]: https://github.com/MediaComem/generator-courses-md
