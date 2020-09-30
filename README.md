@@ -15,13 +15,6 @@ Data mining TP
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Getting started 
-Pour valider les TP de Data Mining :
-- Il faut compléter les TPs (3 TPs) et les renvoyer avant les deadlines
-- Compléter les certifications [3 certifs Datacamp](#Certification)
-- [Compléter l'assignement sur datacamp pour la manipulation des données ][admp]
-- [Capstone Project][cp]
-
 ## Requirements
 
 * [ANACONDA For windows][ANACONDA] 
@@ -29,6 +22,12 @@ Pour valider les TP de Data Mining :
 * [Jupyter][Jup]
 * [Googlecollabs][clb]
 
+## Getting started 
+Pour valider les TP de Data Mining :
+- Il faut compléter les TPs (3 TPs) et les renvoyer avant les deadlines
+- Compléter les certifications [3 certifs Datacamp](#Certification)
+- [Compléter l'assignement sur datacamp pour la manipulation des données ][admp]
+- [Capstone Project][cp]
 
 
 
