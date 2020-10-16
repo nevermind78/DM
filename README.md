@@ -10,7 +10,7 @@ Data mining TP
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
 - [TP1][TP1]
-- [TP2 : Clustering analysis with python](lcp)
+- [TP2 : Clustering analysis with python](#lcp)
 - [Certification](#Certification)
 - [Moyenne des Tps DM](#Moyenne)
 
