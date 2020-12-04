@@ -11,6 +11,8 @@ Data mining TP
 - [Getting started](#getting-started)
 - [TP1][TP1]
 - [TP2 : Clustering analysis with python][cap]
+- [TP3 : Linear Classifier]
+- [TP4 : Decision tree + Basket market analysis][tp4]
 - [Certification](#Certification)
 - [Moyenne des Tps DM](#Moyenne)
 
@@ -48,6 +50,7 @@ Bonus = (0.5-Assessement) x (Nombre de certif datacamp) si Assessment >=0.5
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 [TP1]: https://github.com/nevermind78/DM/tree/master/TP1
+[tp4]: https://github.com/nevermind78/DM/tree/master/TP4
 [cdi]: https://learn.datacamp.com/courses/cleaning-data-in-python
 [lcp]: https://learn.datacamp.com/courses/linear-classifiers-in-python
 [cap]: https://learn.datacamp.com/courses/cluster-analysis-in-python
